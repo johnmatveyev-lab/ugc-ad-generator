@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of One-Click UGC Ad Generator",
+  "description": "Enter a concept and let AI generate a complete video ad with a script, voiceover, and thumbnail in one click.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
